@@ -9,3 +9,18 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Log files
+*.log
